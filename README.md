@@ -1,11 +1,11 @@
 # PyBer_Analysis
 
-##Overview of the analysis
+## Overview of the analysis
 Using ride-sharing data, I put together a Dataframe (spreadsheet) based on the different city types in the data. Using the dataframe, I then gathered the totatl weekly fares for each city type to better understand what current cost changes are occuring throughout the year and put them into a multi-line chart. 
 
-##Results
+## Results
 
-###Quick Glance information
+### Quick Glance information
 
 ![Total_ride_Share](https://user-images.githubusercontent.com/103524591/180096156-83255f38-14a8-4de3-8822-336819ba4ebb.png)
 
@@ -14,7 +14,7 @@ Urban cities have the most amount of drivers, rides and total fares.
 
 Although Rural cities see the least amount of drivers, they have the highest average fare per ride and fare per driver.
 
-##Conclusion
+## Conclusion
 
 Based off our data
 
