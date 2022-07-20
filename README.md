@@ -6,6 +6,7 @@ Using ride-sharing data, I put together a Dataframe (spreadsheet) based on the d
 ##Results
 
 ###Quick Glance information
+![Total_ride_Share](https://user-images.githubusercontent.com/103524591/180096156-83255f38-14a8-4de3-8822-336819ba4ebb.png)
 
 Rural cities have the least amount of drivers, rides and total fares.
 Urban cities have the most amount of drivers, rides and total fares.
